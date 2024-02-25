@@ -1,0 +1,1 @@
+supabase-database-password: Ldcctyivz2ZRj6Xi
